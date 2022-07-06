@@ -25,7 +25,7 @@ html {
 body {
 	box-sizing: border-box;
 	max-width: 414px;
-	background: linear-gradient(rgba(112,49,160, .9), rgba(224, 229, 247, 1));
+	background: linear-gradient(to right, #00ffbf 0%, #00ffff 50%);
 }
 
 h2 {
