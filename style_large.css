@@ -201,7 +201,7 @@ h2 {
 
 .projectIcon {
 	width: 35vh;
-	max-height: 100%;
+	height: 10vh;
 	margin: 1vh 0;
 	text-align: center;
 	border-style: none;
@@ -226,7 +226,7 @@ figcaption {
 	text-transform: uppercase;
 	font-weight: bold;
 	color: white;
-	height: 13.5vh;
+	height: 10vh;
 	width: 35vh;
 	border-style: none;
 	border-radius: 1vh;
