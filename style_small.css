@@ -20,12 +20,12 @@ html {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	background: linear-gradient(to right, #00ffbf 0%, #00ffff 50%);
 }
 
 body {
 	box-sizing: border-box;
 	max-width: 414px;
-	background: linear-gradient(to right, #87bdd8 0%, #b7d7e8 100%);
 }
 
 h2 {
